@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+    		System.out.println("ALFA!");
         assertTrue( true );
         System.out.println("TEST SUCCESS!");
     }
